@@ -41,8 +41,7 @@ print(norm_of_matrix)
 ### 1-Norm of a Matrix
 ![image](https://github.com/MandhakiniA/Norm-of-a-matrix/assets/150005194/14f558f7-2161-4892-8571-447b474e261e)
 ### 2-Norm of a Matrix
-![image](https://github.com/MandhakiniA/Norm-of-a-matrix/assets/150005194/1439f394-1381-4ca1-9427-464527254239)
-
+![image](https://github.com/MandhakiniA/Norm-of-a-matrix/assets/150005194/656cc645-ab3b-49ec-a571-5404a7bdfe0e)
 ### Infinity Norm of a Matrix
 ![image](https://github.com/MandhakiniA/Norm-of-a-matrix/assets/150005194/727798d7-8799-4d51-8038-b90e6532fe5f)
 
